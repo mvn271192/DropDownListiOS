@@ -1,0 +1,6 @@
+framework module DropDownListiOS {
+  umbrella header "DropDownListiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

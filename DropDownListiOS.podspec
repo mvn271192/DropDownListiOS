@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DropDownListiOS'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DropDownListiOS.'
+  s.summary          = 'This CocoaPod provides the ability to use a Drop Down List that may look like android'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

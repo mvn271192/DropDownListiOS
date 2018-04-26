@@ -1,0 +1,22 @@
+{
+  "name": "DropDownListiOS",
+  "version": "0.1.0",
+  "summary": "A short description of DropDownListiOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mvn271192@gmail.com/DropDownListiOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mvn271192@gmail.com": "mvn271192@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mvn271192@gmail.com/DropDownListiOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DropDownListiOS/Classes/**/*"
+}
